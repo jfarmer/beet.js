@@ -16,19 +16,19 @@
     "url": "https://github.com/zya/beet.js"
   },
   "dependencies": {
-    "bjorklund": "^1.0.3",
+    "bjorklund": "^1.0.5",
     "wa-metro": "^1.1.2",
     "watchjs": "0.0.0"
   },
   "devDependencies": {
-    "three": "^0.72.0",
-    "bowser": "^1.0.0",
-    "verge": "^1.9.1",
+    "three": "^0.152.2",
+    "bowser": "^2.11.0",
+    "verge": "^1.10.2",
     "prismjs": "prismjs/prism",
-    "browserify": "^9.0.8",
-    "chai": "^2.2.0",
-    "mocha": "^2.2.4",
-    "uglify-js": "^2.4.23",
-    "watchify": "^3.2.2"
+    "browserify": "^17.0.0",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "uglify-js": "^3.17.4",
+    "watchify": "^4.0.0"
   }
 }
